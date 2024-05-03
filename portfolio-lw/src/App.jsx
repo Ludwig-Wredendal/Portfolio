@@ -5,6 +5,8 @@ import Timeline from './components/Timeline';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
+// För att starta kör 'npm run dev' när du står i projektes katalog.
+
 function App() {
 
   return (
