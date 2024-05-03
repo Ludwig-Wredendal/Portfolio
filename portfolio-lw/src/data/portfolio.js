@@ -1,19 +1,19 @@
 export default [
     {
-        title: 'Pripps Blå',
-        imgUrl: '',
+        title: 'Pedro Pedro',
+        imgUrl: '/assets/pedro.jpg',
         stack: ['HTML', 'CSS', 'Javascript'],
         link: 'https://systembolaget.se/'
     },
     {
         title: 'Big Load',
-        imgUrl: '',
+        imgUrl: '/assets/pedro.jpg',
         stack: ['HTML', 'CSS', 'Javascript'],
         link: 'https://systembolaget.se/'
     },
     {
         title: 'Design-Build-Test Course',
-        imgUrl: '',
+        imgUrl: '/assets/pedro.jpg',
         stack: ['HTML', 'CSS', 'Javascript'],
         link: 'https://systembolaget.se/'
     },
