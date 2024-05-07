@@ -7,6 +7,7 @@ function Intro () {
         pb-6">
             <h1 className="text-4xl 
             md:text-7xl mb-1
+            dark:text-white
             md:mb-3 font-bold">Ludwig Wredendal</h1>
             <p className="text-base md:text-xl mb-3 font-medium">Engineering program in Interaction Technology and Design</p>
             <p className="text-sm max-w-xl mb-6 font-bold">Im a student currently getting my MSc in a five-year integrated MSc 
