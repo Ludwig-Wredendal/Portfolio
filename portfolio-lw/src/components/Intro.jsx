@@ -24,6 +24,19 @@ function Intro () {
                 LinkedIn
             </a>{' '}
             profile.
+            <br/>
+            My {' '}
+            <a
+                href="https://github.com/Ludwig-Wredendal" // viktigt med hela adressen annars knasar det sig.
+                target="_blank" // detta tar dig till ett nytt fönster.
+                className="text-cyan-600 hover:underline
+                underline-offset-2 decoration-2
+                decoration-red-600"
+                rel="noreferrer noopener"
+            >
+                GitHub
+            </a>{' '}
+            profile.
             </p>
         </div>
     )
