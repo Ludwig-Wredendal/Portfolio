@@ -7,6 +7,7 @@ import Footer from './components/Footer';
 
 // För att starta kör 'npm run dev' när du står i projektes katalog. Detta gör du när du jobbar som
 // developer. Vid senare stadie kommer du köra "npm run build" in till "npm run preview".
+// när du clonar ner git repot behöver du köra ny npm install för att kunna köra vites npm run dev etc
 
 // Ikoner från https://heroicons.com/
 
