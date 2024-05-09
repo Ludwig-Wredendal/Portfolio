@@ -9,9 +9,16 @@ function Intro () {
             md:text-7xl mb-1
             dark:text-white
             md:mb-3 font-bold">Ludwig Wredendal</h1>
+            
             <p className="text-base md:text-xl mb-3 font-medium">Engineering program in Interaction Technology and Design</p>
-            <p className="text-sm max-w-xl mb-6 font-bold">Im a student currently getting my MSc in a five-year integrated MSc 
-            program at Umeå University.
+            <div>
+                <img src="assets\bild_lw24.jpg" alt="Ludwig Wredendal" className="w-48 h-auto" /> {/* Adjust width and height as needed */}
+            </div>
+            <br/>
+            <p className="text-sm max-w-xl mb-6 font-bold">Hi! Im a student currently getting my MSc in a five-year integrated MSc 
+            program at Umeå University in Umeå, where I am also currently based. I started my university studies in fall of 2021 and aim
+            to graduate in spring 2026. After my studies I aspire to be working as a software engineer.
+            <br/>
             <br/>
             My {' '}
             <a
@@ -39,6 +46,7 @@ function Intro () {
             </a>{' '}
             profile.
             </p>
+            
         </div>
     )
 }

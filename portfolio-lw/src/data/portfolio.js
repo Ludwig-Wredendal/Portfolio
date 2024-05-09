@@ -6,15 +6,15 @@ export default [
         link: 'https://systembolaget.se/'
     },
     {
-        title: 'Big Load',
+        title: 'Pedrooo ehhh',
         imgUrl: '/assets/pedro.jpg',
-        stack: ['HTML', 'CSS', 'Javascript'],
+        stack: ['SQL, C#, C, Java, Figma, .NET'],
         link: 'https://systembolaget.se/'
     },
     {
         title: 'Design-Build-Test Course',
         imgUrl: '/assets/pedro.jpg',
-        stack: ['HTML', 'CSS', 'Javascript'],
+        stack: ['Figma', 'ReactJS'],
         link: 'https://systembolaget.se/'
     },
 ]
