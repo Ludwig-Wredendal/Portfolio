@@ -10,6 +10,7 @@ import Footer from './components/Footer';
 // när du clonar ner git repot behöver du köra ny npm install för att kunna köra vites npm run dev etc
 
 // Ikoner från https://heroicons.com/
+// stå i dist-mappen och kör http-server efter du laddat ner npm install -g http-server
 
 function App() {
   const [theme, setTheme] = useState(null);
