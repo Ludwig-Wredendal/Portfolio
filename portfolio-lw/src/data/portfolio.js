@@ -1,20 +1,20 @@
 export default [
     {
-        title: 'Pedro Pedro',
-        imgUrl: '/assets/pedro.jpg',
-        stack: ['HTML', 'CSS', 'Javascript'],
-        link: 'https://systembolaget.se/'
+        title: 'Design for User Experience course',
+        imgUrl: '/assets/bigload.png',
+        stack: ['Figma'],
+        link: '/assets/thisisfine.png'
     },
     {
-        title: 'Pedrooo ehhh',
+        title: 'Pedro Pedro',
         imgUrl: '/assets/pedro.jpg',
-        stack: ['SQL, C#, C, Java, Figma, .NET'],
-        link: 'https://systembolaget.se/'
+        stack: ['SQL, C#, C, Java, Figma, .NET, HTML, CSS, JavaScript'],
+        link: '/assets/doa-meme.png'
     },
     {
         title: 'Design-Build-Test Course',
-        imgUrl: '/assets/pedro.jpg',
+        imgUrl: 'assets/dbt.png',
         stack: ['Figma', 'ReactJS'],
-        link: 'https://systembolaget.se/'
+        link: '/assets/thisisfine.png'
     },
 ]
